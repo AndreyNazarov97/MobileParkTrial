@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileParkTrial", " MobileParkTrial\MobileParkTrial.csproj", "{F07B95F2-14DB-4F9C-8499-2F0B74F2BD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileParkTrial.Tests", "MobileParkTrial.Tests\MobileParkTrial.Tests.csproj", "{FE464C23-5FF3-47E2-B298-9CA1CE3036B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07B95F2-14DB-4F9C-8499-2F0B74F2BD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07B95F2-14DB-4F9C-8499-2F0B74F2BD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07B95F2-14DB-4F9C-8499-2F0B74F2BD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07B95F2-14DB-4F9C-8499-2F0B74F2BD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE464C23-5FF3-47E2-B298-9CA1CE3036B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE464C23-5FF3-47E2-B298-9CA1CE3036B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE464C23-5FF3-47E2-B298-9CA1CE3036B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE464C23-5FF3-47E2-B298-9CA1CE3036B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
